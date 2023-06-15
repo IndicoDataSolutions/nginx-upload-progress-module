@@ -1776,4 +1776,3 @@ ngx_http_uploadprogress_callback_variable(ngx_http_request_t *r,
     return NGX_OK;
 }
 
-
